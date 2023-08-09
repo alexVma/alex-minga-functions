@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { MisFunciones } from './utils/mis-funciones';
 @Component({
   selector: 'app-root',
-  //templateUrl: './app.component.html', 
+  //templateUrl: './app.component.html',  
   template: `
   <div>
     <h1>Resultados de MisFunciones</h1>
